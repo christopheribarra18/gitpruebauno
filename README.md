@@ -9,7 +9,7 @@ Proyecto de Apirest para divulgación educativa
 - 🔐 Autenticación con JWT
 - 📱 Responsive design
 - 🚀 Alta performance
-- Patron MVC
+- 🔑 Patron MVC
 
 ## 🛠️ Tecnologías
 **Backend:** Node.js, Express, Mysql 
